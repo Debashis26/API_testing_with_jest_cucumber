@@ -45,7 +45,8 @@ steps 4:  ***add jest configuration to*** ```package.json``` ***file***
       <path_for_steps_file>
     ],
     "moduleFileExtensions": [
-      "ts"
+      "ts",
+      "js"
     ]
   },
 ```
